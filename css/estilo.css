@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+    color: aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
+    word-spacing: 3px;
+    background-image: url(../img/punk1.jpg);
+    background-repeat: repeat-y;
+    background-size: 60px 60px 200px 200px;
+}
+/* .fondo {
+    background-image: url(../img/konsumo\ respeto.jpg);
+    background-size:auto;
+    background-position: center;
+    height: 20vh;
+    width: 200vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
